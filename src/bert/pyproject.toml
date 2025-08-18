@@ -15,4 +15,5 @@ dependencies = [
     "mecab>=0.996.11",
     "fugashi>=1.5.1",
     "unidic-lite>=1.0.8",
+    "evaluate>=0.4.5",
 ]
